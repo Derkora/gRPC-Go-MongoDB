@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package protoapi;
+
+import "google/protobuf/Empty.proto";
+import "google/protobuf/Wrappers.proto";
+
+option go_package = "github.com/derkora/common/taskmaster";
+
+// entitas Task
+message Task {
+    string id = 1;
+    string title = 2;
+    string description = 3;
+}
+
+message TaskList {
+    repeated Task list = 1;
+}
+
+service TaskApi {
+    rpc CreateTask(Task) returns (Task) {}
+    rpc ListTasks(google.protobuf.Empty) returns (TaskList) {}
+    rpc UpdateTask(Task) returns (Task) {}
+    rpc DeleteTask(google.protobuf.StringValue) returns (google.protobuf.BoolValue) {}
+}
