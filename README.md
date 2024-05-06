@@ -1,12 +1,12 @@
 # UTS_5027221021_Steven Figo
- 
-mini project Integrasi Sistem menggunakan gRPC dan Protobuf dalam bahasa pemrograman Go, serta menggunakan MongoDB
+Mini project Integrasi Sistem menggunakan gRPC dan Protobuf dalam bahasa pemrograman Go, serta menggunakan MongoDB
+
+![Screenshot 2024-05-06 232846](https://github.com/Derkora/UTS_5027221021_Steven-Figo/assets/110652010/31104f0f-5397-438b-8848-9a950bc73f7a)
 
 ## link youtube
-
+https://youtu.be/PXX0ncV-zVo 
 
 ## Deskripsi Project
-
 Project ini memiliki fungsi sebagai berikut:
 - Memiliki fitur Create, Read, Update, Delete data
 - Koneksi ke database (MongoDB atau yang lainnya)
