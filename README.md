@@ -1,7 +1,7 @@
 # UTS_5027221021_Steven Figo
 Mini project Integrasi Sistem menggunakan gRPC dan Protobuf dalam bahasa pemrograman Go, serta menggunakan MongoDB
 
-![Screenshot 2024-05-06 232846](https://github.com/Derkora/UTS_5027221021_Steven-Figo/assets/110652010/31104f0f-5397-438b-8848-9a950bc73f7a)
+![image](https://github.com/Derkora/UTS_5027221021_Steven-Figo/assets/110652010/2e27f38a-bf6b-4bfb-b106-dbce50528da9)
 
 ## link youtube
 https://youtu.be/PXX0ncV-zVo 
