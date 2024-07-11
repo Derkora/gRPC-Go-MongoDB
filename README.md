@@ -1,4 +1,4 @@
-# grpc-go-mongo
+# gRPC-Go-MongoDB
 Mini project Integrasi Sistem menggunakan gRPC dan Protobuf dalam bahasa pemrograman Go, serta menggunakan MongoDB
 
 ![image](https://github.com/Derkora/UTS_5027221021_Steven-Figo/assets/110652010/2e27f38a-bf6b-4bfb-b106-dbce50528da9)
